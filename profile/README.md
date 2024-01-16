@@ -3,4 +3,4 @@
 - Created by engineers for the entire community in 2018. It’s a self-funded, profitable business employing 125+ people, running over 8,000 nodes for 70+ blockchain protocols, including bridges and oracles.
 - We create liquid staking products like Eversol and invest in promising blockchain startups in early phases via [Everstake Capital](https://everstake.capital). Among 25+ success stories of such investments are Solana, Wormhole, Metaplex, Pyth, The Graph, and more.
 
-![image](img/everstake-overview.jpeg)
+![image](img/everstake-overview.png)
